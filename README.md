@@ -1,50 +1,50 @@
 # FUTURE_DS_02
 
-# Project Overview
+## Project Overview
 
 The dashboard focuses on:
 
--**Campaign Summary & Key Metrics**: KPI cards displaying Total Spend, Total Revenue, CTR (%), and ROI (%) for a quick overview of campaign performance.
+- **Campaign Summary & Key Metrics**: KPI cards displaying Total Spend, Total Revenue, CTR (%), and ROI (%) for a quick overview of campaign performance.
 
--**Campaign Performance Analysis**: Detailed tables showing ad- and campaign-level metrics including Spend, Impressions, Clicks, CTR, CPC, ROI, Revenue, and Engagement.
+- **Campaign Performance Analysis**: Detailed tables showing ad- and campaign-level metrics including Spend, Impressions, Clicks, CTR, CPC, ROI, Revenue, and Engagement.
 
--**Top Ads Analysis**: Clustered bar charts highlighting the Top 5 Ads by CTR and ROI.
+- **Top Ads Analysis**: Clustered bar charts highlighting the Top 5 Ads by CTR and ROI.
 
--**Platform Comparison**: Charts comparing Facebook and Instagram on Spend, CTR, ROI, and Engagement.
+- **Platform Comparison**: Charts comparing Facebook and Instagram on Spend, CTR, ROI, and Engagement.
 
--**Time Trend Analysis**: Line charts tracking Spend, Revenue, CTR, and ROI over time, with optional platform comparison.
+- **Time Trend Analysis**: Line charts tracking Spend, Revenue, CTR, and ROI over time, with optional platform comparison.
 
-# Dataset
+## Dataset
 
-**CSV File**: ad_campaign_dataset.csv containing:
+- **CSV File:** ad_campaign_dataset.csv containing:
 
-*Campaign Name*
+- Campaign Name
 
-*Ad Set Name*
+- Ad Set Name
 
-*Ad Name*
+- Ad Name
 
-*Platform*
+- Platform
 
-*Impressions, Clicks, Spend, Revenue*
+- Impressions, Clicks, Spend, Revenue
 
-*Engagement metrics*
+- Engagement metrics
 
-*Dates*
+- Dates
 
-**Data Preparation**:Data cleaned and transformed in Power BI using Power Query, key measures created in DAX (CTR, CPC, ROI, Total Spend, Total Revenue, Total Engagement) (Media_campaign_tracker.pbix)
+Data has been **cleaned and transformed** in Power BI using Power Query, key measures created in DAX (CTR, CPC, ROI, Total Spend, Total Revenue, Total Engagement) (Media_campaign_tracker.pbix)
 
-# Features
+## Features
 
-**Drill down functionality for ad- and campaign level performance
+- Drill down functionality for ad- and campaign level performance
 
-**Interactive visuals for campaign, platform, and ad-level comparison
+- Interactive visuals for campaign, platform, and ad-level comparison
 
-**Measures for Total Spend, Total Revenue, CTR (%), ROI (%), and Engagement
+- Measures for Total Spend, Total Revenue, CTR (%), ROI (%), and Engagement
 
-**Clean, professional formatting suitable for portfolio demonstration
+- Clean, professional formatting suitable for portfolio demonstration
 
-# Usage
+## Usage
 
 1. Open the .pbix file in Power BI Desktop
 
@@ -60,14 +60,14 @@ The dashboard focuses on:
 
 7. Hover over visuals for additional metrics and use dril downs for deeper analysis
 
-# Portfolio Value
+## Portfolio Value
 
 This project has sharpened my skills in:
 
-**Marketing performance analytics and campaign evaluation
+- Marketing performance analytics and campaign evaluation
 
-**Power BI dashboard design and storytelling
+- Power BI dashboard design and storytelling
 
-**DAX measure creation for CTR, CPC, ROI, Total Spend, Total Revenue, and Engagement
+- DAX measure creation for CTR, CPC, ROI, Total Spend, Total Revenue, and Engagement
 
-**Data driven decision making for social media campaigns
+- Data driven decision making for social media campaigns
